@@ -71,6 +71,11 @@ ul#menu-header-menu a {
   max-width: 100%;
   margin-bottom: 60px;
 }
+.bottom-left-home, .bottom-middle-home,.bottom-right-home  {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
 
 .single-content {
   padding: 45px 60px 0 0;

@@ -51,10 +51,10 @@ ul#menu-header-menu a {
   font-size: 1.7rem;
   padding: 5px 15px;
 }
-/*.interior-pages {
+.interior-pages {
   display: flex;
   justify-content: center;
-}*/
+}
 .about-us {
     text-align: center;
     padding: 15px;

@@ -19,6 +19,9 @@ body {
 .container {
   background: white;
 }
+.row {
+    text-align: center;
+}
 header h1 {
   font-size: 2rem;
 }

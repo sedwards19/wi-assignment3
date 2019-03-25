@@ -95,6 +95,10 @@ ul#menu-header-menu a {
 .sidebar {
   padding-top: 45px;
 }
+.twelve.columns.not-found {
+  padding: 40px 20px 490px;
+  text-align: center;
+}
 footer .container {
   background: #002e5c;
   padding: 60px 35px 25px;

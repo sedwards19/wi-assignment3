@@ -17,9 +17,9 @@
   </div>
 
 <!--Interior Pages Section-->
-  <div class="row interior-pages">
+  <div class="row interior-pages home">
     <div class="one-third column">
-      <?php dynamic_sidebar('bottom-left-Home'); ?>
+      <?php dynamic_sidebar('bottom-left-home'); ?>
     </div>
 
     <div class="one-third column">

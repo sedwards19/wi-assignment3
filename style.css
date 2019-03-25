@@ -82,7 +82,10 @@ ul#menu-header-menu a {
   text-align: center;
   padding: 15px;
 }
-
+.nine.columns.single-content {
+    padding-left: 15px;
+    text-align: left;
+}
 .single-content {
   padding: 45px 60px 0 0;
 }

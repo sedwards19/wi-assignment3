@@ -31,7 +31,7 @@ header a {
 }
 header .row {
   display: flex;
-  justify-content: left;
+  justify-content: center;
   align-items: center;
 }
 .menu-header-menu-container {

@@ -51,10 +51,6 @@ ul#menu-header-menu a {
   font-size: 1.7rem;
   padding: 5px 15px;
 }
-.row.interior-pages.home {
-    display: flex;
-    justify-content: center;
-}
 .about-us {
     text-align: center;
     padding: 15px;

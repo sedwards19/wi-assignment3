@@ -82,6 +82,8 @@ ul#menu-header-menu a {
   margin-bottom: 60px;
 }
 .bottom-left, .bottom-middle,.bottom-right  {
+  display: flex;
+  justify-content: center;
   text-align: center;
   padding: 15px;
 }

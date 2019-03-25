@@ -1,0 +1,94 @@
+/*
+Theme Name: Assignment 2
+Theme URI:
+Author: Sydney Edwards
+Description: Assignment 2 for the Web Interactivity & Engagement course at the University of Florida.
+Version: 1.0
+License: Open
+Text Domain: Assignment2
+*/
+
+@import url("stylesheets/normalize.css");
+@import url("stylesheets/skeleton.css");
+
+body {
+  background: #f6f6f6;
+  font-family: 'Lato', sans-serif;
+  color: #002e5c;
+}
+.container {
+  background: white;
+}
+header h1 {
+  font-size: 2rem;
+}
+header .container {
+  background: #002e5c;
+  color: white;
+}
+header a {
+  color: white;
+}
+header .row {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.menu-header-menu-container {
+  text-align: center;
+}
+ul#menu-header-menu li {
+  display: inline;
+}
+ul#menu-header-menu a {
+  text-decoration: none;
+  font-size: 1.7rem;
+  padding: 5px 15px;
+}
+.interior-pages {
+  display: flex;
+  justify-content: center;
+}
+.column, .columns {
+  margin-left: 0%;
+}
+.one-half.column.posts {
+  padding: 15px;
+}
+.post-title {
+  margin-bottom: 0;
+}
+.post-date {
+  margin-left: 10px;
+}
+.post-img {
+  float: left;
+  margin-right: 40px;
+  border: 1px solid;
+}
+.post-feature img {
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 60px;
+}
+
+.single-content {
+  padding: 45px 60px 0 0;
+}
+.sidebar {
+  padding-top: 45px;
+}
+footer .container {
+  background: #002e5c;
+  padding: 60px 35px 25px;
+  color: white;
+}
+ul#menu-footer-menu li {
+  list-style-type: none;
+}
+ul#menu-footer-menu a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.7rem;
+  font-weight: bold;
+}

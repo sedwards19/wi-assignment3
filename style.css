@@ -82,6 +82,7 @@ ul#menu-header-menu a {
   margin-bottom: 60px;
 }
 .bottom-left, .bottom-middle,.bottom-right  {
+  display: flex;
   text-align: center;
   padding: 15px;
 }

@@ -99,6 +99,9 @@ ul#menu-header-menu a {
   padding: 40px 20px 490px;
   text-align: center;
 }
+.one-third.column {
+    display: flex;
+}
 footer .container {
   background: #002e5c;
   padding: 60px 35px 25px;
